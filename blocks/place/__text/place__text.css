@@ -1,0 +1,6 @@
+.place__text {
+  grid-area: text;
+  max-width: 484px;
+  width: 100%;
+  box-sizing: border-box;
+}
